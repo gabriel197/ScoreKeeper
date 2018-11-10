@@ -1,0 +1,14 @@
+<resources>
+<string name="app_name">Score Keeper</string>
+<string name="team_a">Team A</string>
+<string name="_a0">0</string>
+<string name="_b0">0</string>
+<string name="_c0">0</string>
+<string name="_d0">0</string>
+<string name="team_b">Team B</string>
+<string name="reset">Reset</string>
+<string name="score">score</string>
+<string name="score2">score</string>
+<string name="foul">foul</string>
+<string name="foul2">Foul</string>
+</resources>
